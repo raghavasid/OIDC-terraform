@@ -1,6 +1,6 @@
 name: "Terraform action"
 on:
-  push:
+  commits:
     branches:
       - main
 permissions:
